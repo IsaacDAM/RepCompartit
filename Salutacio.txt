@@ -1,1 +1,3 @@
 Hola, aquest repositori està compartit
+
+Canvi realitzat per en guillem
